@@ -13,8 +13,8 @@
 - Youtube: https://www.youtube.com/channel/UCOwJGeEJCRuaqNaFkb1ty-w
 - Instagram: https://www.instagram.com/solakitainu
 
-# Solakita Inu address: 
- -F1Ury8TwYWwqyEvqBME4smBc2TYszyZWp2Xd4ZCrntQ8
+## Solakita Inu address: 
+ - F1Ury8TwYWwqyEvqBME4smBc2TYszyZWp2Xd4ZCrntQ8
 
 <!---
 solakitainu/solakitainu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
