@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @solakitainu
-- 👀 I’m living on Solana since 18/01/2022
-- 🌱 I’m currently under development 
-- 📫 You can reach me by leaving a comment on my main solakitainu repository.
+- 👋 Hi, I’m Solakita Inu, also known as $SAKITA
+- 👀 I’m living on Solana since 19/01/2022
+- 📫 You can reach me on telegram @solakitainu
+
+Website: https://solakitainu.com/
+Telegram: https://t.me/solakita
+Twitter: https://twitter.com/SolakitaInu
+Medium: https://medium.com/@solakitainu
+Reddit: https://www.reddit.com/user/solakitainu
+Github: https://github.com/solakitainu
+Youtube: https://www.youtube.com/channel/UCOwJGeEJCRuaqNaFkb1ty-w
+Instagram: https://www.instagram.com/solakitainu
+
+Solakita Inu address: F1Ury8TwYWwqyEvqBME4smBc2TYszyZWp2Xd4ZCrntQ8
 
 <!---
 solakitainu/solakitainu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
