@@ -1,3 +1,4 @@
+
 <p align="center">
      <img src="./img/simple-logo-500-png.png">
 </p>
@@ -5,12 +6,6 @@
 - 👋 Hi, I’m Solakita Inu, also known as $SAKITA
 - 👀 I’m living on Solana since 19/01/2022
 - 📫 You can reach me on telegram @solakitainu
-
-
-
-<p align="center">
-     <img src="./img/solakitainu-png-full-min.png">
-</p>
 
 ## We are live :
 
