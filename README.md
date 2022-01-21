@@ -1,5 +1,5 @@
 
-<img src="./img/sakita.png">
+<img src="./img/solakitainu-png-full-min.png">
 
 - 👋 Hi, I’m Solakita Inu, also known as $SAKITA
 - 👀 I’m living on Solana since 19/01/2022
