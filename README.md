@@ -6,6 +6,7 @@
 - 📫 You can reach me on telegram @solakitainu
 
 ## We are live :
+<img src="./img/simple-logo-500-png.png">
 
 - Website: https://solakitainu.com/
 - Telegram: https://t.me/solakita
