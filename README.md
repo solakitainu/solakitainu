@@ -1,3 +1,6 @@
+
+<img src="./img/solakitainu.jpg">
+
 - 👋 Hi, I’m Solakita Inu, also known as $SAKITA
 - 👀 I’m living on Solana since 19/01/2022
 - 📫 You can reach me on telegram @solakitainu
